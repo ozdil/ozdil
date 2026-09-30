@@ -38,6 +38,6 @@ Systems Architect & Software Engineer specializing in Linux ecosystems, high-per
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozdil&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ozan Ozdil GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozdil&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ozdil&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ozan Ozdil GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ozdil&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
