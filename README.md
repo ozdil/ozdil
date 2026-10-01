@@ -2,7 +2,7 @@
 
 Systems Architect & Software Engineer specializing in Linux ecosystems, high-performance systems programming, and modern desktop experiences. Creator and core contributor across the Omarchy Linux initiative, focused on security sentinels, low-latency tooling, and developer infrastructure.
 
-[Website](https://ozanozdil.com) | [GitHub Repositories](https://github.com/ozdil?tab=repositories) | [Contact](https://ozanozdil.com)
+[Website](https://ozanozdil.com) | [GitHub Repositories](https://github.com/ozdil?tab=repositories) | [Google Play](https://play.google.com/store/apps/dev?id=5715688516196041029) | [Contact](https://ozanozdil.com)
 
 ---
 
