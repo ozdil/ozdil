@@ -33,7 +33,7 @@ Independent systems architect and software engineer with a focus on core Linux u
 | :--- | :--- | :--- |
 | **[omarchy-security-sentinel](https://github.com/ozdil/omarchy-security-sentinel)** | Unified cyber defense engine, hardware security hub, and threat sentinel for Omarchy Linux | Rust, Linux Core, sysfs |
 | **[omarchy-tripwire-vault](https://github.com/ozdil/omarchy-tripwire-vault)** | Honey-token canary tripwire and filesystem ransomware early-warning detector | QML, C++, Inotify |
-| **[omarchy-badusb-shield](https://github.com/ozdil/badusb-shield)** | Hardware USB transaction monitor and BadUSB payload interceptor | QML, Udev, IPC |
+| **[omarchy-badusb-shield](https://github.com/ozdil/omarchy-badusb-shield)** | Hardware USB transaction monitor and BadUSB payload interceptor | QML, Udev, IPC |
 | **[omarchy-opsec-cleaner](https://github.com/ozdil/omarchy-opsec-cleaner)** | Forensic metadata scrubber and digital footprint purge engine | QML, Shell, Systems |
 | **[omarchy-ghost-mac](https://github.com/ozdil/omarchy-ghost-mac)** | Layer-2 hardware identity privacy daemon and Wi-Fi interface anonymizer | QML, Netlink, IPC |
 
