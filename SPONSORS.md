@@ -43,7 +43,7 @@ Sponsorluklar FOSSWire ile ozanozdil.com'un barındırma ve derleme giderlerini,
 5. `ozdil/omarchy-omanotes`
 6. `ozdil/deckopt`
 
-## Monthly tiers (proposal, amounts not yet approved)
+## Monthly tiers
 
 | Amount | Name | Description |
 | :--- | :--- | :--- |
@@ -54,7 +54,7 @@ Sponsorluklar FOSSWire ile ozanozdil.com'un barındırma ve derleme giderlerini,
 
 One-time sponsorship with a custom amount stays enabled.
 
-## Goal (proposal)
+## Goal
 
 ```text
 Type: number of monthly sponsors
