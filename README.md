@@ -2,7 +2,9 @@
 
 Developer and photographer based in Kastamonu, Türkiye. I build native Linux tools for the [Omarchy](https://omarchy.org) desktop (Arch Linux, Hyprland, Quickshell) in Rust and QML, coordinate open-source work at Kastamonu Municipality, and document the architecture and landscapes of the Western Black Sea region on a Fujifilm GFX medium-format camera.
 
-[ozanozdil.com](https://ozanozdil.com) · [FOSSWire](https://fosswire.org) · [X](https://x.com/ozanozdil) · [Hugging Face](https://huggingface.co/ozanozdil) · [ozan@pm.me](mailto:ozan@pm.me)
+[ozanozdil.com](https://ozanozdil.com) · [FOSSWire](https://fosswire.org) · [X](https://x.com/ozanozdil) · [TikTok](https://www.tiktok.com/@ozanozdil) · [Hugging Face](https://huggingface.co/ozanozdil) · [ozan@pm.me](mailto:ozan@pm.me)
+
+**Developer programs:** Microsoft Windows developer account (active). Apple Developer Program and Nintendo Developer Portal applications are under review.
 
 ### Featured
 
@@ -120,6 +122,8 @@ Kastamonu'da yaşayan bir geliştirici ve fotoğrafçıyım. Arch Linux tabanlı
 - [OmaStudio](https://github.com/ozdil/omarchy-omastudio): Omarchy Linux için kendi Rust motoruyla çalışan, 16 bit orta format RAW düzenleyicisi.
 
 Diğerleri: sayfa düzenini koruyarak PDF çeviren [PolyCodex](https://github.com/ozdil/polycodex) ve reklamsız haber okuyucusu [QuickNews](https://github.com/ozdil/quicknews). Türkçe teknik yazılarım ve fotoğraf albümlerim [ozanozdil.com](https://ozanozdil.com) adresinde.
+
+Geliştirici programları: Microsoft Windows geliştirici hesabım onaylandı. Apple Developer Program ve Nintendo Developer Portal başvurularım değerlendirmede.
 
 Projelerin hepsi ücretsiz ve açık kaynaktır. İşinize yaradıysa [GitHub Sponsors](https://github.com/sponsors/ozdil) üzerinden bakımına destek olabilirsiniz. İletişim: [ozan@pm.me](mailto:ozan@pm.me)
 
